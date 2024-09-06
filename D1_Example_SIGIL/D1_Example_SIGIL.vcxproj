@@ -27,6 +27,7 @@
     <ProjectGuid>{2c975ee8-4fd1-458a-998b-1df450b7ec48}</ProjectGuid>
     <RootNamespace>D1ExampleSIGIL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Arkanot</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

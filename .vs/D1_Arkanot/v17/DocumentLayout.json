@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aula 1\\source\\repos\\D1_Example_SIGIL\\",
+  "WorkspaceRootPath": "C:\\Users\\Aula 1\\Documents\\GitHub\\Desarrollo1_Arkanot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C975EE8-4FD1-458A-998B-1DF450B7EC48}|D1_Example_SIGIL\\D1_Example_SIGIL.vcxproj|C:\\Users\\Aula 1\\source\\repos\\D1_Example_SIGIL\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2C975EE8-4FD1-458A-998B-1DF450B7EC48}|D1_Example_SIGIL\\D1_Example_SIGIL.vcxproj|C:\\Users\\Aula 1\\Documents\\GitHub\\Desarrollo1_Arkanot\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2C975EE8-4FD1-458A-998B-1DF450B7EC48}|D1_Example_SIGIL\\D1_Example_SIGIL.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Aula 1\\source\\repos\\D1_Example_SIGIL\\src\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Aula 1\\Documents\\GitHub\\Desarrollo1_Arkanot\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
-              "ToolTip": "C:\\Users\\Aula 1\\source\\repos\\D1_Example_SIGIL\\src\\main.cpp",
+              "ToolTip": "C:\\Users\\Aula 1\\Documents\\GitHub\\Desarrollo1_Arkanot\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-06T14:56:10.101Z",
               "EditorCaption": ""

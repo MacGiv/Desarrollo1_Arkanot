@@ -2,8 +2,8 @@
 
 int main(int args, char* argv[])
 {
-    int screenWidth = 1280;
-    int screenHeight = 720;
+    int screenWidth = 1024;
+    int screenHeight = 768;
     
     int paddleHeight = 50;
     int paddleWidth = 150;
